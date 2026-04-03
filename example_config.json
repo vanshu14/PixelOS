@@ -1,0 +1,6 @@
+{
+    "focal_length_pixels": 1600,
+    "car_height_m": 1.5,
+    "person_height_m": 1.7,
+    "distance_method": "bbox_height_heuristic"
+}
