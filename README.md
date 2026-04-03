@@ -1,4 +1,4 @@
-# Mini-ADAS — One-day demo project
+# PixelOS — One-day demo project
 **What this is:** A minimal, runnable demo that performs:
 - Object detection using an external YOLOv8/Ultralytics model (you provide the weights)
 - Simple lane detection using Canny + Hough lines
